@@ -25,7 +25,7 @@ maintainers:
     name: Bitnami
 name: %%CHART_NAME%%
 sources:
-  - https://github.com/bitnami/bitnami-docker-%%IMAGE_NAME%%
+  - https://github.com/dilip-sj/charts.git
   - %%UPSTREAM_PROJECT_SOURCE_CODE_URL%%
   - ...
 version: 0.1.0
